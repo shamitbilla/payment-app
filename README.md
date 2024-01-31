@@ -1,6 +1,6 @@
-# Your Project Name
+# Payment Application
 
-Brief description of your project.
+A demo Payment application made in MERN.
 
 ## Table of Contents
 - [Introduction](#introduction)
